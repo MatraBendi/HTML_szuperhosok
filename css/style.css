@@ -1173,6 +1173,7 @@ a {
 }
 #szoveg2{
   font-weight: bold;
+  color: white;
 }
 
 #dro{
@@ -1184,4 +1185,10 @@ a {
 #kep1{
   width: 170px;
   height: 170px;
+}
+
+#szoveg3{
+  text-align: center;
+  font-weight: lighter;
+  color: white;
 }
